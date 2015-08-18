@@ -1,0 +1,416 @@
+[{
+    "name": "Benjamin Franklin",
+    "id": "Q34969",
+    "yearOfBirth": 1706,
+    "yearOfDeath": 1790
+}, {
+    "name": "Thomas Paine",
+    "id": "Q126462",
+    "yearOfBirth": 1737,
+    "yearOfDeath": 1809
+}, {
+    "name": "Noah Webster",
+    "id": "Q241676",
+    "yearOfBirth": 1758,
+    "yearOfDeath": 1843
+}, {
+    "name": "anonymous",
+    "id": "Q10920",
+    "yearOfBirth": null,
+    "yearOfDeath": null
+}, {
+    "name": "Christopher Colles",
+    "id": "Q19924258",
+    "yearOfBirth": null,
+    "yearOfDeath": null
+}, {
+    "name": "Amelia Simmons",
+    "id": "Q18810535",
+    "yearOfBirth": null,
+    "yearOfDeath": null
+}, {
+    "name": "Meriwether Lewis",
+    "id": "Q313492",
+    "yearOfBirth": 1774,
+    "yearOfDeath": 1809
+}, {
+    "name": "Washington Irving",
+    "id": "Q181667",
+    "yearOfBirth": 1783,
+    "yearOfDeath": 1859
+}, {
+    "name": "William Holmes McGuffey",
+    "id": "Q4020053",
+    "yearOfBirth": 1800,
+    "yearOfDeath": 1873
+}, {
+    "name": "Samuel Griswold Goodrich",
+    "id": "Q719978",
+    "yearOfBirth": 1793,
+    "yearOfDeath": 1860
+}, {
+    "name": "Frederick Douglass",
+    "id": "Q215562",
+    "yearOfBirth": 1818,
+    "yearOfDeath": 1895
+}, {
+    "name": "Nathaniel Hawthorne",
+    "id": "Q69339",
+    "yearOfBirth": 1804,
+    "yearOfDeath": 1864
+}, {
+    "name": "Herman Melville",
+    "id": "Q4985",
+    "yearOfBirth": 1819,
+    "yearOfDeath": 1891
+}, {
+    "name": "Harriet Beecher Stowe",
+    "id": "Q102513",
+    "yearOfBirth": 1811,
+    "yearOfDeath": 1896
+}, {
+    "name": "Henry David Thoreau",
+    "id": "Q131149",
+    "yearOfBirth": 1817,
+    "yearOfDeath": 1862
+}, {
+    "name": "Walt Whitman",
+    "id": "Q81438",
+    "yearOfBirth": 1819,
+    "yearOfDeath": 1892
+}, {
+    "name": "Louisa May Alcott",
+    "id": "Q185696",
+    "yearOfBirth": 1832,
+    "yearOfDeath": 1888
+}, {
+    "name": "Horatio Alger",
+    "id": null,
+    "yearOfBirth": null,
+    "yearOfDeath": null
+}, {
+    "name": "Catharine E. Beecher and Harriet Beecher Stowe",
+    "id": null,
+    "yearOfBirth": null,
+    "yearOfDeath": null
+}, {
+    "name": "Mark Twain",
+    "id": "Q7245",
+    "yearOfBirth": 1835,
+    "yearOfDeath": 1910
+}, {
+    "name": "Emily Dickinson",
+    "id": "Q4441",
+    "yearOfBirth": 1830,
+    "yearOfDeath": 1886
+}, {
+    "name": "Jacob Riis",
+    "id": "Q379211",
+    "yearOfBirth": 1849,
+    "yearOfDeath": 1914
+}, {
+    "name": "Stephen Crane",
+    "id": "Q206534",
+    "yearOfBirth": 1871,
+    "yearOfDeath": 1900
+}, {
+    "name": "L. Frank Baum",
+    "id": "Q207544",
+    "yearOfBirth": 1856,
+    "yearOfDeath": 1919
+}, {
+    "name": "Sarah Hopkins Bradford",
+    "id": "Q7422401",
+    "yearOfBirth": 1818,
+    "yearOfDeath": 1912
+}, {
+    "name": "Ida Tarbell",
+    "id": "Q271712",
+    "yearOfBirth": 1857,
+    "yearOfDeath": 1944
+}, {
+    "name": "Jack London",
+    "id": "Q45765",
+    "yearOfBirth": 1876,
+    "yearOfDeath": 1916
+}, {
+    "name": "W.E.B. Du Bois",
+    "id": "Q158060",
+    "yearOfBirth": 1868,
+    "yearOfDeath": 1963
+}, {
+    "name": "Upton Sinclair",
+    "id": "Q216134",
+    "yearOfBirth": 1878,
+    "yearOfDeath": 1968
+}, {
+    "name": "Henry Adams",
+    "id": "Q458390",
+    "yearOfBirth": 1838,
+    "yearOfDeath": 1918
+}, {
+    "name": "William James",
+    "id": "Q125249",
+    "yearOfBirth": 1842,
+    "yearOfDeath": 1910
+}, {
+    "name": "Zane Grey",
+    "id": "Q146763",
+    "yearOfBirth": 1872,
+    "yearOfDeath": 1939
+}, {
+    "name": "Edgar Rice Burroughs",
+    "id": "Q148234",
+    "yearOfBirth": 1875,
+    "yearOfDeath": 1950
+}, {
+    "name": "Margaret Sanger",
+    "id": "Q285514",
+    "yearOfBirth": 1879,
+    "yearOfDeath": 1966
+}, {
+    "name": "William Carlos Williams",
+    "id": "Q178106",
+    "yearOfBirth": 1883,
+    "yearOfDeath": 1963
+}, {
+    "name": "Robert Frost",
+    "id": "Q168728",
+    "yearOfBirth": 1874,
+    "yearOfDeath": 1963
+}, {
+    "name": "F. Scott Fitzgerald",
+    "id": "Q93354",
+    "yearOfBirth": 1896,
+    "yearOfDeath": 1940
+}, {
+    "name": "Langston Hughes",
+    "id": "Q188093",
+    "yearOfBirth": 1902,
+    "yearOfDeath": 1967
+}, {
+    "name": "William Faulkner",
+    "id": "Q38392",
+    "yearOfBirth": 1897,
+    "yearOfDeath": 1962
+}, {
+    "name": "Dashiell Hammett",
+    "id": "Q186335",
+    "yearOfBirth": 1894,
+    "yearOfDeath": 1961
+}, {
+    "name": "Irma S. Rombauer",
+    "id": "Q12403850",
+    "yearOfBirth": 1877,
+    "yearOfDeath": 1962
+}, {
+    "name": "Margaret Mitchell",
+    "id": "Q173540",
+    "yearOfBirth": 1900,
+    "yearOfDeath": 1949
+}, {
+    "name": "Dale Carnegie",
+    "id": "Q230762",
+    "yearOfBirth": 1888,
+    "yearOfDeath": 1955
+}, {
+    "name": "Zora Neale Hurston",
+    "id": "Q220480",
+    "yearOfBirth": 1891,
+    "yearOfDeath": 1960
+}, {
+    "name": "Federal Writers' Project",
+    "id": "Q1400092",
+    "yearOfBirth": null,
+    "yearOfDeath": null
+}, {
+    "name": "Thornton Wilder",
+    "id": "Q155087",
+    "yearOfBirth": 1897,
+    "yearOfDeath": 1975
+}, {
+    "name": "John Steinbeck",
+    "id": "Q39212",
+    "yearOfBirth": 1902,
+    "yearOfDeath": 1968
+}, {
+    "name": "Ernest Hemingway",
+    "id": "Q23434",
+    "yearOfBirth": 1899,
+    "yearOfDeath": 1961
+}, {
+    "name": "Richard Wright",
+    "id": "Q190251",
+    "yearOfBirth": 1943,
+    "yearOfDeath": 2008
+}, {
+    "name": "Betty Smith",
+    "id": "Q850406",
+    "yearOfBirth": 1929,
+    "yearOfDeath": 2011
+}, {
+    "name": "Benjamin A. Botkin",
+    "id": "Q4888158",
+    "yearOfBirth": 1901,
+    "yearOfDeath": 1975
+}, {
+    "name": "Gwendolyn Brooks",
+    "id": "Q270715",
+    "yearOfBirth": 1917,
+    "yearOfDeath": 2000
+}, {
+    "name": "Benjamin Spock",
+    "id": "Q310694",
+    "yearOfBirth": 1903,
+    "yearOfDeath": 1998
+}, {
+    "name": "Eugene O'Neill",
+    "id": "Q93157",
+    "yearOfBirth": 1888,
+    "yearOfDeath": 1953
+}, {
+    "name": "Margaret Wise Brown",
+    "id": "Q5970117",
+    "yearOfBirth": 1910,
+    "yearOfDeath": 1952
+}, {
+    "name": "Tennessee Williams",
+    "id": "Q134262",
+    "yearOfBirth": 1911,
+    "yearOfDeath": 1983
+}, {
+    "name": "Alfred Kinsey",
+    "id": "Q186561",
+    "yearOfBirth": 1894,
+    "yearOfDeath": 1956
+}, {
+    "name": "J. D. Salinger",
+    "id": "Q79904",
+    "yearOfBirth": 1918,
+    "yearOfDeath": 2010
+}, {
+    "name": "Ralph Ellison",
+    "id": "Q299965",
+    "yearOfBirth": 1914,
+    "yearOfDeath": 1994
+}, {
+    "name": "E. B. White",
+    "id": "Q361617",
+    "yearOfBirth": 1899,
+    "yearOfDeath": 1985
+}, {
+    "name": "Ray Bradbury",
+    "id": "Q40640",
+    "yearOfBirth": 1920,
+    "yearOfDeath": 2012
+}, {
+    "name": "Allen Ginsberg",
+    "id": "Q6711",
+    "yearOfBirth": 1926,
+    "yearOfDeath": 1997
+}, {
+    "name": "Ayn Rand",
+    "id": "Q132524",
+    "yearOfBirth": 1905,
+    "yearOfDeath": 1982
+}, {
+    "name": "Dr. Seuss",
+    "id": "Q298685",
+    "yearOfBirth": 1904,
+    "yearOfDeath": 1991
+}, {
+    "name": "Jack Kerouac",
+    "id": "Q160534",
+    "yearOfBirth": 1922,
+    "yearOfDeath": 1969
+}, {
+    "name": "Harper Lee",
+    "id": "Q182658",
+    "yearOfBirth": 1926,
+    "yearOfDeath": null
+}, {
+    "name": "Joseph Heller",
+    "id": "Q208101",
+    "yearOfBirth": 1923,
+    "yearOfDeath": 1999
+}, {
+    "name": "Robert A. Heinlein",
+    "id": "Q123078",
+    "yearOfBirth": 1907,
+    "yearOfDeath": 1988
+}, {
+    "name": "Ezra Jack Keats",
+    "id": "Q5423369",
+    "yearOfBirth": 1916,
+    "yearOfDeath": 1983
+}, {
+    "name": "Maurice Sendak",
+    "id": "Q314771",
+    "yearOfBirth": 1928,
+    "yearOfDeath": 2012
+}, {
+    "name": "James Baldwin",
+    "id": "Q273210",
+    "yearOfBirth": 1924,
+    "yearOfDeath": 1987
+}, {
+    "name": "Betty Friedan",
+    "id": "Q234604",
+    "yearOfBirth": 1921,
+    "yearOfDeath": 2006
+}, {
+    "name": "Malcolm X and Alex Haley",
+    "id": null,
+    "yearOfBirth": null,
+    "yearOfDeath": null
+}, {
+    "name": "Ralph Nader",
+    "id": "Q193156",
+    "yearOfBirth": 1934,
+    "yearOfDeath": null
+}, {
+    "name": "Rachel Carson",
+    "id": "Q100948",
+    "yearOfBirth": 1907,
+    "yearOfDeath": 1964
+}, {
+    "name": "Truman Capote",
+    "id": "Q134180",
+    "yearOfBirth": 1924,
+    "yearOfDeath": 1984
+}, {
+    "name": "James D. Watson",
+    "id": "Q83333",
+    "yearOfBirth": 1928,
+    "yearOfDeath": null
+}, {
+    "name": "Dee Brown",
+    "id": "Q903331",
+    "yearOfBirth": 1908,
+    "yearOfDeath": 2002
+}, {
+    "name": "Boston Women's Health Book Collective",
+    "id": null,
+    "yearOfBirth": null,
+    "yearOfDeath": null
+}, {
+    "name": "Carl Sagan",
+    "id": "Q410",
+    "yearOfBirth": 1934,
+    "yearOfDeath": 1996
+}, {
+    "name": "Toni Morrison",
+    "id": "Q72334",
+    "yearOfBirth": 1931,
+    "yearOfDeath": null
+}, {
+    "name": "Randy Shilts",
+    "id": "Q1287494",
+    "yearOfBirth": 1951,
+    "yearOfDeath": 1994
+}, {
+    "name": "Cesar Chavez",
+    "id": "Q355425",
+    "yearOfBirth": 1927,
+    "yearOfDeath": 1993
+}]
